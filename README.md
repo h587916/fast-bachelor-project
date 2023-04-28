@@ -1,4 +1,4 @@
-# fast-bachelor-project
+# Fast Bachelor Project
 
 Notebooks:
     If not used in Kaggle, change the following part of the code for creating a session:
